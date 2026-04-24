@@ -1,3 +1,5 @@
 Calificaciones
 arte 15
 ingles 14
+comunicacion 19
+matematica 20
