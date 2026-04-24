@@ -1,3 +1,5 @@
 Agenda
 pedro 123456
 maria 654987
+lucas 654982
+lalo 987654
