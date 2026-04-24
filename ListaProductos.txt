@@ -1,4 +1,6 @@
-Lista productos
+Lista productos naturales
 1. Beterraga
 2. Zanahoria
 3. Manzana
+4. Limón
+4. Sandía
