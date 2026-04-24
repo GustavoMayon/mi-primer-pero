@@ -3,3 +3,5 @@ arte 15
 ingles 14
 comunicacion 19
 matematica 20
+educacion física 18
+historia 18
