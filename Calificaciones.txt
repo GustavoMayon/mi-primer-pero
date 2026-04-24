@@ -1,7 +1,8 @@
 Calificaciones
 arte 15
-ingles 14
-comunicacion 19
-matematica 20
+inglés 14
+comunicación 19
+matemática 20
 educacion física 18
 historia 18
+razonamiento matemático 19
